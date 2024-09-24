@@ -1,0 +1,24 @@
+===============
+--------Conform--------
+<leader>l - format
+--------Harpoon-------
+<leader>a - add file
+<C-e> - quick menu
+<C-t> - 1'st file
+<C-h> - 2'nd file
+<C-n> - 3'rd file
+<C-b> - 4'th file
+---------LIVE SERVER---------
+":LiveServerStart {DIR}" - start live server in a directory
+":StopLiveServer" - stop live server
+---------LSP---------
+<C-p> - previous hint
+<C-n> - next hint
+<Tab> - select
+<C-Space> - confirm
+--------TELESCOPE------------
+<leader>pf - find files
+<C-p> - find git files
+<leader>ps - find word
+
+
